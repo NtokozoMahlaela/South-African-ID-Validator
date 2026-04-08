@@ -21,12 +21,6 @@ A professional, enterprise-grade South African ID number validation system with 
 ### ❌ **Properly Rejected**
 - Invalid checksums, wrong formats, impossible dates, non-numeric input
 
-## 🌐 **API Endpoints**
-
-- `POST /api/id-validation/validate` - Validate single ID
-- `GET /api/analytics/overview` - Validation statistics
-- `GET /api/health` - Service health check
-
 
 ## 📞 **Contact**
 
